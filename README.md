@@ -2,7 +2,7 @@
   <h1 align="center">Hola soy, <a href="https://www.youtube.com/@LarryBot">Larrybot</a> 👋</h1>
 </div>
 
-![Blue and Black Gradient Abstract Tech Startup Pitch Deck Presentation](https://github.com/user-attachments/assets/ed664b0d-a4b1-475c-99f1-9f14f09273ac)
+![Blue and Black Gradient Abstract Tech Startup Pitch Deck Presentation](https://github.com/user-attachments/assets/eedd9fcc-c3de-4004-84b8-4c479813297a)
 
 # Encuentra los mejores Proyectos con Larry 💪:
 
